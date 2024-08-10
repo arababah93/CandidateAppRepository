@@ -1,0 +1,15 @@
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\bin\Debug\net8.0\CandidateApp.Service.deps.json
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\bin\Debug\net8.0\CandidateApp.Service.dll
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\bin\Debug\net8.0\CandidateApp.Service.pdb
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\bin\Debug\net8.0\CandidateApp.Data.dll
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\bin\Debug\net8.0\CandidateApp.Data.pdb
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.csproj.AssemblyReference.cache
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.AssemblyInfoInputs.cache
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.AssemblyInfo.cs
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\Candidat.E5D35108.Up2Date
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.dll
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\refint\CandidateApp.Service.dll
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\CandidateApp.Service.pdb
+C:\Users\alaa_\source\repos\CandidateApp\CandidateApp.Service\obj\Debug\net8.0\ref\CandidateApp.Service.dll
